@@ -2,3 +2,9 @@
 
 - Desarrollado en python usando PyQT
 - tutorial basado en https://realpython.com/python-pyqt-gui-calculator/
+
+instalar
+- se debe instalar un virtual env
+- activar el verbose export QT_DEBUG_PLUGINS=1
+- instalar qt pip3 install pyqt5
+- se debe instalar sudo apt install libxcb-xinerama0 
