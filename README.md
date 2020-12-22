@@ -8,3 +8,8 @@ instalar
 - activar el verbose export QT_DEBUG_PLUGINS=1
 - instalar qt pip3 install pyqt5
 - se debe instalar sudo apt install libxcb-xinerama0 
+
+
+#### Carpetas
+
+- se añade la carpeta layouts con algunas plantillas de los layout en pyqt
