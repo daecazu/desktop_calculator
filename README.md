@@ -12,4 +12,5 @@ instalar
 
 #### Carpetas
 
-- se añade la carpeta layouts con algunas plantillas de los layout en pyqt
+- se añade la carpeta layouts con algunas plantillas de los layout en pyqt  
+- se añade una carpeta dialog donde se encontraran los ejemplos de dialog applications
